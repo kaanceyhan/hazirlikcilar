@@ -1,7 +1,6 @@
 # Çantalar
 Hazırlıkçı yaşam alanlarında felaket durumları için olabildiğince tedarikli olmak için uğraşır.
-Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır. (bug-out bag) 
-Bu çanta yaşam alanını terk etmek durumunda kalındığında ihtiyaç duyulacak temel malzemeleri içerir. koşarak vb durumlarda kolayca taşınabilecek ağırlıkta olması gereklidir. Tercih edilen şekli sırt çantası şeklinde olan taktik çantalardır. ikinci çanta olarak medikal tip çantalar tercih edilebilir.
+Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu çanta yaşam alanını terk etmek durumunda kalındığında ihtiyaç duyulacak temel malzemeleri içerir. Koşarken vb.  durumlarda kolayca taşınabilecek ağırlıkta olması gereklidir. Tercih edilen şekli sırt çantası şeklinde olan taktik çantalardır. İkinci çanta olarak medikal tip çantalar tercih edilebilir.
 **Elinize geçirdiğiniz her şeyi buna tıkmayacaksınız!**
 
 # Acil Durum Çantasının İçeriği:
@@ -12,7 +11,7 @@ Bu çanta yaşam alanını terk etmek durumunda kalındığında ihtiyaç duyula
 * El feneri
 * Acil durum battaniyesi
 * 1.5 litre su
-* 3-5 adet Snickers vb çikolata
+* 3-5 adet Snickers vb. çikolata
 * Düdük
 * El feneri ve radyo için pil
 * Cep radyosu
