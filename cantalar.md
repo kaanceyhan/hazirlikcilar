@@ -92,3 +92,4 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 * Plastik tabak / bardak / çatal - kaşık
 * Projeksiyon el lambası
 * 50 Watt güneş paneli
+* Hazır çorba (kupa için)
