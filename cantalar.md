@@ -7,7 +7,7 @@ Bu çanta yaşam alanını terk etmek durumunda kalındığında ihtiyaç duyula
 # Acil Durum Çantasının İçeriği:
 * Bıçak
 * 2-3mm Paraşüt ipi (10 metre ve daha fazla)
-* Çöp Torbası (mümkünse büyük boy, ve kalın olanlardan)
+* Çöp Torbası (mümkünse büyük boy ve kalın olanlardan)
 * Ateş Başlatıcı
 * El feneri
 * Acil Durum Battaniyesi
@@ -23,6 +23,7 @@ Bu çanta yaşam alanını terk etmek durumunda kalındığında ihtiyaç duyula
 * Gölgelikli Şapka
 * 100 TL Nakit Para
 * Küçük Not Defteri + tükenmez kalem
+* Çengelli İğne
 
 # Giriş seviyesi Çanta içeriği:
 * Çakı (Victorinox veya Letherman gibi güvenilir markaların testere, pense, konserve açacağı içeren modelleri)
