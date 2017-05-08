@@ -58,6 +58,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 * Kuru çanta (20 litre kapasiteli)
 * Bölge / Ülke Haritası
 * Güneş gözlüğü
+* Vücut temizleme havlusu
 
 # İleri Seviye Çanta İçeriği:
 * Uzun mesafe aydınlatıcı fener / kafa lambası (3000 lümen ve üzeri)
