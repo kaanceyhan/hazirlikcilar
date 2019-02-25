@@ -4,12 +4,15 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 **Elinize geçirdiğiniz her şeyi buna tıkmayacaksınız!**
 
 # Çanta İçerikleri
-|--|Barınma|Isınma|Beslenme|Sağlık|Temizlik|İletişim|Diğer|
-|--|--|--|--|--|--|--|--|
-|Acil Durum Çantası|<ul></ul>|<ul><li>Ateş başlatıcı</li><li>Acil durum battaniyesi</li></ul>|<ul><li>1.5 litre su</li><li>3-5 adet Snickers vb. çikolata</li></ul>|<ul><li>Taşınabilir tip ilk yardım çantası</li><ul>|<ul><li>Çöp torbası (mümkünse büyük boy ve kalın olanlardan)</li><li>Kamp sabunu</li></ul>|<ul><li>Düdük</li><li>Cep radyosu</li></ul>|<ul><li>Bıçak</li><li>2-3mm paraşüt ipi (10 metre ve daha fazla)</li><li>El feneri</li><li>El feneri ve radyo için pil</li><li>Pusula</li><li>Yansıtıcı küçük ayna - metal parçası</li><li>Gölgelikli şapka</li>100 TL nakit para</li><li>Küçük not defteri + tükenmez kalem</li><li>Çengelli İğne</li></ul>|
-|Giriş Seviyesi Çanta|  |  |  |  |  |  |  |
-|Orta Seviye Çanta|  |  |  |  |  |  |  |
-|İleri Seviye Çanta|  |  |  |  |  |  |  |
+|Kategoriler/Çantalar|Acil Durum Çantası|Giriş Seviyesi Çanta|Orta Seviye Çanta|İleri Seviye Çanta|
+|--|--|--|--|--|
+|Barınma|<ul></ul>|  |  |  |
+|Isınma|<ul><li>Ateş başlatıcı</li><li>Acil durum battaniyesi</li></ul>|  |  |  |
+|Beslenme|<ul><li>1.5 litre su</li><li>3-5 adet Snickers vb. çikolata</li></ul>|  |  |  |
+|Sağlık|<ul><li>Taşınabilir tip ilk yardım çantası</li><ul>|  |  |  |
+|Temizlik|<ul><li>Çöp torbası (mümkünse büyük boy ve kalın olanlardan)</li><li>Kamp sabunu</li></ul>|  |  |  |
+|İletişim|<ul><li>Düdük</li><li>Cep radyosu</li></ul>|  |  |  |
+|Diğer|<ul><li>Bıçak</li><li>2-3mm paraşüt ipi (10 metre ve daha fazla)</li><li>El feneri</li><li>El feneri ve radyo için pil</li><li>Pusula</li><li>Yansıtıcı küçük ayna - metal parçası</li><li>Gölgelikli şapka</li>100 TL nakit para</li><li>Küçük not defteri + tükenmez kalem</li><li>Çengelli İğne</li></ul>|  |  |  |
 
 
 # Giriş seviyesi Çanta içeriği:
