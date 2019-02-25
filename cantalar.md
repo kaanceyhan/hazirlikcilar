@@ -17,10 +17,10 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 	<tbody>
 		<tr>
 			<td>Barınma</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 			<td>Isınma</td>
@@ -30,32 +30,46 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Acil durum battaniyesi</li>
 				</ul>
 			</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>
+				<ul>
+					<li>Su geÇirmez kibrit</li>
+					<li>Ufak balta</li>
+				</ul>
+			</td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 			<td>Beslenme</td>
 			<td>
 				<ul>
 					<li>1.5 litre su</li>
-					<li>3-5 adet Snickers vb. çikolata</li>
+					<li>3-5 adet Snickers vb. Çikolata</li>
 				</ul>
 			</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td> 
+				<ul>
+					<li>Butan propan vidalı kartuş + ocak</li>
+					<li>Olta, misine, kanca, sahte yem</li>
+					<li>2-4 litre su matarası (birden fazla adette 8-10 saat ısı muhafaza edebilen termos tipi tercih edilmeli)</li>
+					<li>Kamp pişirme seti (1-2 kişilik tencere, tava, tabak, bardak içeren modeller)</li>
+					<li>4-10 adet konserve yiyecek (ton balığı, barbunya pilaki vb.)</li>
+					<li>Kilitli buzdolabı poşeti</li>
+				</ul>
+			</td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 			<td>Sağlık</td>
 			<td>
 				<ul>
-					<li>Taşınabilir tip ilk yardım çantası</li>
+					<li>Taşınabilir tip ilk yardım Çantası</li>
 				</ul>
 			</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td> </td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 			<td>Temizlik</td>
@@ -65,9 +79,13 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Kamp sabunu</li>
 				</ul>
 			</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>
+				<ul>
+					<li>Kalıp sabun</li>
+				</ul>
+			</td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 			<td>İletişim</td>
@@ -77,9 +95,13 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Cep radyosu</li>
 				</ul>
 			</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>
+				<ul>
+					<li> İşaret Çubuğu</li>
+				</ul>
+			</td>
+			<td> </td>
+			<td> </td>
 		</tr>
 		<tr>
 			<td>Diğer</td>
@@ -90,35 +112,24 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>El feneri</li>
 					<li>El feneri ve radyo için pil</li>
 					<li>Pusula</li>
-					<li>Yansıtıcı küçük ayna - metal parçası</li>
+					<li>Yansıtıcı küçük ayna - metal parÇası</li>
 					<li>Gölgelikli şapka</li>
 					<li>100 TL nakit para</li>
 					<li>Küçük not defteri + tükenmez kalem</li>
 					<li>Çengelli İğne</li>
 				</ul>
 			</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>
+				<ul>
+					<li>Çakı (Victorinox veya Letherman gibi güvenilir markaların testere, pense, konserve açacağı iÇeren modelleri)</li>
+					<li>Kafa lambası + yedek pil / batarya</li>
+				</ul>
+			</td>
+			<td> </td>
+			<td> </td>
 		</tr>
 	</tbody>
 </table>
-
-
-# Giriş seviyesi Çanta içeriği:
-* Çakı (Victorinox veya Letherman gibi güvenilir markaların testere, pense, konserve açacağı içeren modelleri)
-* İşaret çubuğu
-* Su geçirmez kibrit
-* Butan propan vidalı kartuş + ocak
-* Ufak balta
-* Kafa lambası + yedek pil / batarya
-* Olta, misine, kanca, sahte yem
-* 2-4 litre su matarası (birden fazla adette 8-10 saat ısı muhafaza edebilen termos tipi tercih edilmeli)
-* Kamp pişirme seti (1-2 kişilik tencere, tava, tabak, bardak içeren modeller)
-* 4-10 adet konserve yiyecek (ton balığı, barbunya pilaki vb.)
-* Kalıp sabun
-* Kilitli buzdolabı poşeti
-
 
 # Orta Seviye Çanta İçeriği:
 * Besin paketleri (10 Gün yetecek kadar, kurutulmuş gıda, hidrasyon paketleri)
