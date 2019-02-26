@@ -7,7 +7,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 <table>
 	<thead>
 		<tr>
-			<th>Kategoriler/Çantalar</th>
+			<th>Kategoriler / Çantalar</th>
 			<th>Acil Durum Çantası</th>
 			<th>Giriş Seviyesi Çanta</th>
 			<th>Orta Seviye Çanta</th>
@@ -27,7 +27,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			<td>
 				<ul>
 					<li>Uyku tulumu</li>
-					<li>çadır</li>
+					<li>Çadır</li>
 				</ul>
 			</td>
 		</tr>
@@ -87,16 +87,16 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			</td>
 		</tr>
 		<tr>
-			<td>Sağlık</td>
+			<td>Sağlık / İlkyardım</td>
 			<td>
 				<ul>
-					<li>Taşınabilir tip ilk yardım çantası</li>
+					<li>Taşınabilir tip ilkyardım çantası</li>
 				</ul>
 			</td>
 			<td></td>
 			<td>
 				<ul>
-					<li>Travma çantası ve 5 kişiye yetecek kadar ilk yardım malzemesi</li>
+					<li>Travma çantası ve 5 kişiye yetecek kadar ilkyardım malzemesi</li>
 					<li></li>
 				</ul>
 			</td>
@@ -167,7 +167,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Gölgelikli şapka</li>
 					<li>100 TL nakit para</li>
 					<li>Küçük not defteri + tükenmez kalem</li>
-					<li>çengelli İğne</li>
+					<li>Çengelli İğne</li>
 				</ul>
 			</td>
 			<td>
@@ -199,12 +199,12 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Büyük boy balta</li>
 					<li>Katlanabilir su bidonu</li>
 					<li>7-10 mm statik ip (30 metre ve üzeri)</li>
-					<li>2-3mm paraşüt ipi (30 metre ve üzeri)</li>
+					<li>2-3 mm paraşüt ipi (30 metre ve üzeri)</li>
 					<li>Dürbün</li>
 					<li>Orta boy not defteri + renkli tükenmez kalemler</li>
 					<li>Sapan</li>
-					<li>Kilitli / Kilitsiz karabina (2-5 adet)</li>
-					<li>Yenilebilir bitkiler klavuzu</li>
+					<li>Kilitli / kilitsiz karabina (2-5 adet)</li>
+					<li>Yenilebilir bitkiler kılavuzu</li>
 					<li>1000 TL Nakit Para</li>
 				</ul>
 			</td>
