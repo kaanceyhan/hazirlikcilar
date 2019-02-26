@@ -97,7 +97,6 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			<td>
 				<ul>
 					<li>Travma çantası ve 5 kişiye yetecek kadar ilkyardım malzemesi</li>
-					<li></li>
 				</ul>
 			</td>
 			<td>
