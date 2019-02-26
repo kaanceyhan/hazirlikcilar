@@ -134,7 +134,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			<td>
 				<ul>
 					<li>Düdük</li>
-					<li>Cep radyosu</li>
+					<li>Cep radyosu + yedek pil</li>
 				</ul>
 			</td>
 			<td>
@@ -154,13 +154,30 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			</td>
 		</tr>
 		<tr>
+			<td>Aydınlatma</td>
+			<td>
+				<ul>
+					<li>El feneri + yedek pil</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Kafa lambası + yedek pil/batarya</li>
+				</ul>
+			</td>
+			<td></td>
+			<td>
+				<ul>
+					<li>Uzun mesafe aydınlatıcı fener / kafa lambası (3000 lümen ve üzeri) + yedek pil/batarya</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
 			<td>Diğer</td>
 			<td>
 				<ul>
 					<li>Bıçak</li>
 					<li>2-3mm paraşüt ipi (10 metre ve daha fazla)</li>
-					<li>El feneri</li>
-					<li>El feneri ve radyo için pil</li>
 					<li>Pusula</li>
 					<li>Yansıtıcı küçük ayna - metal parçası</li>
 					<li>Gölgelikli şapka</li>
@@ -172,7 +189,6 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			<td>
 				<ul>
 					<li>Çakı (Victorinox veya Letherman gibi güvenilir markaların testere, pense, konserve açacağı içeren modelleri)</li>
-					<li>Kafa lambası + yedek pil / batarya</li>
 				</ul>
 			</td>
 			<td>
@@ -191,7 +207,6 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			</td>
 			<td>
 				<ul>
-					<li>Uzun mesafe aydınlatıcı fener / kafa lambası (3000 lümen ve üzeri)</li>
 					<li>GPS</li>
 					<li>Bölgesel topografik haritalar</li>
 					<li>Güneş paneli şarj sistemi</li>
