@@ -57,7 +57,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			</td>
 		</tr>
 		<tr>
-			<td>Beslenme</td>
+			<td>Su ve Beslenme</td>
 			<td>
 				<ul>
 					<li>1.5 litre su</li>
