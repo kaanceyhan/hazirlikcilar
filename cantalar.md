@@ -173,10 +173,30 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			</td>
 		</tr>
 		<tr>
-			<td>Diğer</td>
+			<td>Alet / edevat</td>
 			<td>
 				<ul>
 					<li>Bıçak</li>
+				</ul>
+			</td>
+			<td></td>
+			<td>
+				<ul>
+					<li>Çakı (Victorinox veya Letherman gibi güvenilir markaların testere, pense, konserve açacağı içeren modelleri)</li>
+					<li>Orta boy testere</li>
+					<li>Küçük kürek</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Büyük boy balta</li>
+				</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>Diğer</td>
+			<td>
+				<ul>
 					<li>2-3mm paraşüt ipi (10 metre ve daha fazla)</li>
 					<li>Pusula</li>
 					<li>Yansıtıcı küçük ayna - metal parçası</li>
@@ -186,18 +206,12 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Çengelli İğne</li>
 				</ul>
 			</td>
+			<td></td>
 			<td>
 				<ul>
-					<li>Çakı (Victorinox veya Letherman gibi güvenilir markaların testere, pense, konserve açacağı içeren modelleri)</li>
-				</ul>
-			</td>
-			<td>
-				<ul>
-					<li>Orta boy testere</li>
 					<li>Gaz maskesi ve yedek filtre</li>
 					<li>İş eldiveni 3-5 adet</li>
 					<li>Duct Tape</li>
-					<li>Küçük kürek</li>
 					<li>Kamp hamağı</li>
 					<li>Telsizler için pil, Telefon için powerbank</li>
 					<li>Kuru çanta (20 litre kapasiteli)</li>
@@ -210,7 +224,6 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>GPS</li>
 					<li>Bölgesel topografik haritalar</li>
 					<li>Güneş paneli şarj sistemi</li>
-					<li>Büyük boy balta</li>
 					<li>Katlanabilir su bidonu</li>
 					<li>7-10 mm statik ip (30 metre ve üzeri)</li>
 					<li>2-3 mm paraşüt ipi (30 metre ve üzeri)</li>
