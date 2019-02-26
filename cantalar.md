@@ -17,14 +17,19 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 	<tbody>
 		<tr>
 			<td>Barınma</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;
+			<td></td>
+			<td></td>
+			<td>
 				<ul>
 					<li>Tarp örtü</li>
 				</ul>
 			</td>
-			<td>&nbsp;</td>
+			<td>
+				<ul>
+					<li>Uyku tulumu</li>
+					<li>çadır</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<td>Isınma</td>
@@ -40,12 +45,16 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Ufak balta</li>
 				</ul>
 			</td>
-			<td>&nbsp;
+			<td>
 				<ul>
 					<li>PVC yağmurluk</li>
 				</ul>
 			</td>
-			<td>&nbsp;</td>
+			<td>
+				<ul>
+					<li>Jel / Toz ısıtıcı paketler</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<td>Beslenme</td>
@@ -65,12 +74,17 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Kilitli buzdolabı poşeti</li>
 				</ul>
 			</td>
-			<td>&nbsp;
+			<td>
 				<ul>
 					<li>Besin paketleri (10 Gün yetecek kadar, kurutulmuş gıda, hidrasyon paketleri)</li>
+					<li>Su temizleyici tablet</li>
 				</ul>
 			</td>
-			<td>&nbsp;</td>
+			<td>
+				<ul>
+					<li>Su filtre sistemi</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<td>Sağlık</td>
@@ -79,15 +93,19 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Taşınabilir tip ilk yardım çantası</li>
 				</ul>
 			</td>
-			<td>&nbsp;</td>
-			<td>&nbsp;
+			<td></td>
+			<td>
 				<ul>
-					<li>Su temizleyici tablet</li>
 					<li>Travma çantası ve 5 kişiye yetecek kadar ilk yardım malzemesi</li>
 					<li></li>
 				</ul>
 			</td>
-			<td>&nbsp;</td>
+			<td>
+				<ul>
+					<li>Serum lastiği</li>
+					<li>Antibiyotik / Antiseptik ilaçlar</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<td>Temizlik</td>
@@ -102,7 +120,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Kalıp sabun</li>
 				</ul>
 			</td>
-			<td>&nbsp;
+			<td>
 				<ul>
 					<li>Sıvı sabun</li>
 					<li>Diş macunu, diş fırçası</li>
@@ -110,7 +128,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Vücut temizleme havlusu</li>
 				</ul>
 			</td>
-			<td>&nbsp;</td>
+			<td></td>
 		</tr>
 		<tr>
 			<td>İletişim</td>
@@ -125,12 +143,16 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>İşaret çubuğu</li>
 				</ul>
 			</td>
-			<td>&nbsp;
+			<td>
 				<ul>
 					<li>PMR (Lisans gerektirmeyen) Telsiz Seti</li>
 				</ul>
 			</td>
-			<td>&nbsp;</td>
+			<td>
+				<ul>
+					<li>Lisanslı telsiz (VHF / UHF FM)</li>
+				</ul>
+			</td>
 		</tr>
 		<tr>
 			<td>Diğer</td>
@@ -154,7 +176,7 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Kafa lambası + yedek pil / batarya</li>
 				</ul>
 			</td>
-			<td>&nbsp;
+			<td>
 				<ul>
 					<li>Orta boy testere</li>
 					<li>Gaz maskesi ve yedek filtre</li>
@@ -168,33 +190,27 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Güneş gözlüğü</li>
 				</ul>
 			</td>
-			<td>&nbsp;</td>
+			<td>
+				<ul>
+					<li>Uzun mesafe aydınlatıcı fener / kafa lambası (3000 lümen ve üzeri)</li>
+					<li>GPS</li>
+					<li>Bölgesel topografik haritalar</li>
+					<li>Güneş paneli şarj sistemi</li>
+					<li>Büyük boy balta</li>
+					<li>Katlanabilir su bidonu</li>
+					<li>7-10 mm statik ip (30 metre ve üzeri)</li>
+					<li>2-3mm paraşüt ipi (30 metre ve üzeri)</li>
+					<li>Dürbün</li>
+					<li>Orta boy not defteri + renkli tükenmez kalemler</li>
+					<li>Sapan</li>
+					<li>Kilitli / Kilitsiz karabina (2-5 adet)</li>
+					<li>Yenilebilir bitkiler klavuzu</li>
+					<li>1000 TL Nakit Para</li>
+				</ul>
+			</td>
 		</tr>
 	</tbody>
 </table>
-
-# İleri Seviye Çanta İçeriği:
-* Uzun mesafe aydınlatıcı fener / kafa lambası (3000 lümen ve üzeri)
-* Lisanslı telsiz (VHF / UHF FM)
-* GPS
-* Bölgesel topografik haritalar
-* Su filtre sistemi
-* Güneş paneli şarj sistemi
-* Büyük boy balta
-* Katlanabilir su bidonu
-* 7-10 mm statik ip (30 metre ve üzeri)
-* 2-3mm paraşüt ipi (30 metre ve üzeri)
-* Dürbün
-* Orta boy not defteri + renkli tükenmez kalemler
-* Serum lastiği
-* Antibiyotik / Antiseptik ilaçlar
-* Sapan
-* Kilitli / Kilitsiz karabina (2-5 adet)
-* Jel / Toz ısıtıcı paketler
-* Uyku tulumu
-* Çadır
-* Yenilebilir bitkiler klavuzu
-* 1000 TL Nakit Para
 
 # Sığınak / Acil Durum Dolabı İçeriği:
 * Kapalı çöp / tuvalet varilleri
