@@ -17,10 +17,14 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 	<tbody>
 		<tr>
 			<td>Barınma</td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
+			<td>&nbsp;</td>
+			<td>&nbsp;</td>
+			<td>&nbsp;
+				<ul>
+					<li>Tarp örtü</li>
+				</ul>
+			</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Isınma</td>
@@ -32,22 +36,26 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			</td>
 			<td>
 				<ul>
-					<li>Su geÇirmez kibrit</li>
+					<li>Su geçirmez kibrit</li>
 					<li>Ufak balta</li>
 				</ul>
 			</td>
-			<td> </td>
-			<td> </td>
+			<td>&nbsp;
+				<ul>
+					<li>PVC yağmurluk</li>
+				</ul>
+			</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Beslenme</td>
 			<td>
 				<ul>
 					<li>1.5 litre su</li>
-					<li>3-5 adet Snickers vb. Çikolata</li>
+					<li>3-5 adet Snickers vb. çikolata</li>
 				</ul>
 			</td>
-			<td> 
+			<td>
 				<ul>
 					<li>Butan propan vidalı kartuş + ocak</li>
 					<li>Olta, misine, kanca, sahte yem</li>
@@ -57,19 +65,29 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Kilitli buzdolabı poşeti</li>
 				</ul>
 			</td>
-			<td> </td>
-			<td> </td>
+			<td>&nbsp;
+				<ul>
+					<li>Besin paketleri (10 Gün yetecek kadar, kurutulmuş gıda, hidrasyon paketleri)</li>
+				</ul>
+			</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Sağlık</td>
 			<td>
 				<ul>
-					<li>Taşınabilir tip ilk yardım Çantası</li>
+					<li>Taşınabilir tip ilk yardım çantası</li>
 				</ul>
 			</td>
-			<td> </td>
-			<td> </td>
-			<td> </td>
+			<td>&nbsp;</td>
+			<td>&nbsp;
+				<ul>
+					<li>Su temizleyici tablet</li>
+					<li>Travma çantası ve 5 kişiye yetecek kadar ilk yardım malzemesi</li>
+					<li></li>
+				</ul>
+			</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Temizlik</td>
@@ -84,8 +102,15 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>Kalıp sabun</li>
 				</ul>
 			</td>
-			<td> </td>
-			<td> </td>
+			<td>&nbsp;
+				<ul>
+					<li>Sıvı sabun</li>
+					<li>Diş macunu, diş fırçası</li>
+					<li>Kadın pedi</li>
+					<li>Vücut temizleme havlusu</li>
+				</ul>
+			</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>İletişim</td>
@@ -97,11 +122,15 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 			</td>
 			<td>
 				<ul>
-					<li> İşaret Çubuğu</li>
+					<li>İşaret çubuğu</li>
 				</ul>
 			</td>
-			<td> </td>
-			<td> </td>
+			<td>&nbsp;
+				<ul>
+					<li>PMR (Lisans gerektirmeyen) Telsiz Seti</li>
+				</ul>
+			</td>
+			<td>&nbsp;</td>
 		</tr>
 		<tr>
 			<td>Diğer</td>
@@ -112,21 +141,34 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 					<li>El feneri</li>
 					<li>El feneri ve radyo için pil</li>
 					<li>Pusula</li>
-					<li>Yansıtıcı küçük ayna - metal parÇası</li>
+					<li>Yansıtıcı küçük ayna - metal parçası</li>
 					<li>Gölgelikli şapka</li>
 					<li>100 TL nakit para</li>
 					<li>Küçük not defteri + tükenmez kalem</li>
-					<li>Çengelli İğne</li>
+					<li>çengelli İğne</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-					<li>Çakı (Victorinox veya Letherman gibi güvenilir markaların testere, pense, konserve açacağı iÇeren modelleri)</li>
+					<li>Çakı (Victorinox veya Letherman gibi güvenilir markaların testere, pense, konserve açacağı içeren modelleri)</li>
 					<li>Kafa lambası + yedek pil / batarya</li>
 				</ul>
 			</td>
-			<td> </td>
-			<td> </td>
+			<td>&nbsp;
+				<ul>
+					<li>Orta boy testere</li>
+					<li>Gaz maskesi ve yedek filtre</li>
+					<li>İş eldiveni 3-5 adet</li>
+					<li>Duct Tape</li>
+					<li>Küçük kürek</li>
+					<li>Kamp hamağı</li>
+					<li>Telsizler için pil, Telefon için powerbank</li>
+					<li>Kuru çanta (20 litre kapasiteli)</li>
+					<li>Bölge / ülke Haritası</li>
+					<li>Güneş gözlüğü</li>
+				</ul>
+			</td>
+			<td>&nbsp;</td>
 		</tr>
 	</tbody>
 </table>
