@@ -173,27 +173,6 @@ Bunun için ilk ihtiyaç duyduğu acil durum çantasıdır (bug-out bag).  Bu �
 	</tbody>
 </table>
 
-# Orta Seviye Çanta İçeriği:
-* Besin paketleri (10 Gün yetecek kadar, kurutulmuş gıda, hidrasyon paketleri)
-* Su temizleyici tablet
-* Orta boy testere
-* Gaz maskesi ve yedek filtre
-* Tramva çantası ve 5 kişiye yetecek kadar ilk yardım malzemesi
-* İş eldiveni 3-5 adet
-* Sıvı sabun
-* Diş macunu, diş fırçası, kadın pedi
-* Duct Tape
-* PVC yağmurluk
-* Tarp örtü
-* Küçük kürek
-* Kamp hamağı
-* PMR (Lisans gerektirmeyen) Telsiz Seti
-* Telsizler için pil, Telefon için powerbank
-* Kuru çanta (20 litre kapasiteli)
-* Bölge / Ülke Haritası
-* Güneş gözlüğü
-* Vücut temizleme havlusu
-
 # İleri Seviye Çanta İçeriği:
 * Uzun mesafe aydınlatıcı fener / kafa lambası (3000 lümen ve üzeri)
 * Lisanslı telsiz (VHF / UHF FM)
